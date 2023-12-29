@@ -80,6 +80,7 @@ const Quiz = () => {
               {quizComplete && (
                 <p className="font-bold text-xl flex flex-col mx-auto mt-10">
                   Quiz Complete! Your Final Score is: {score} out of {quizItems.length}
+                <p className="mt-5px"> Click On Take Quiz! for Another Quiz.</p>
                 </p>
               )}
               {!quizComplete && (
