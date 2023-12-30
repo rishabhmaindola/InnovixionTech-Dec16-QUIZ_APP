@@ -1,4 +1,4 @@
-[InnovixionTech-Dec16 (TRIVIA-API) QUIZ_APP](https://github.com/rishabhmaindola/InnovixionTech-Dec16-QUIZ_APP)
+[InnovixionTech-Dec16 (TRIVIA-API) QUIZ_APP]
 
 
 A simple quiz application where users can take quizzes on
