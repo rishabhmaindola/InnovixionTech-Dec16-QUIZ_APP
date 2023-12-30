@@ -1,4 +1,4 @@
-InnovixionTech-Dec16 (TRIVIA-API) QUIZ_APP
+Innovixion Tech(Task 1)Online-Notes-Taking-App InnovixionTech-Dec16 (TRIVIA-API) QUIZ_APP
 
 
 A simple quiz application where users can take quizzes on
