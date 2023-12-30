@@ -1,4 +1,5 @@
-## Getting Started
+InnovixionTech-Dec16 (TRIVIA-API) QUIZ_APP
+
 
 A simple quiz application where users can take quizzes on
 various topics.
